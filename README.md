@@ -1,4 +1,4 @@
-# Projects
+# GRID BASED PASSWORD AUTHENTICATION SYSTEM
 Academic Projects
 Graphical passwords refer to using pictures (also drawings) as passwords. In theory, graphical passwords are easier to remember, since humans remember pictures better
 than words . Also, they should be more resistant to brute force attacks, since the search space is practically infinite. A recall - based graphical password approach 
